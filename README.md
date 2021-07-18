@@ -1,4 +1,4 @@
-# JavaaScript-Loop-Practice
+# JavaScript-Loop-Practice
 <!DOCTYPE html>
 <html lang="en">
 <head>
